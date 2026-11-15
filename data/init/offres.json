@@ -1,0 +1,222 @@
+[
+  {
+    "id": "o1",
+    "titre": "Panier surprise boulangerie",
+    "titreCourt": "Panier surprise",
+    "commerceId": "c1",
+    "categorie": "Boulangerie",
+    "description": "Un assortiment de pains, viennoiseries et pâtisseries de la journée, d'une valeur de 10 €. Contenu variable selon les invendus.",
+    "allergenes": [
+      "gluten",
+      "œufs",
+      "lait",
+      "fruits à coque"
+    ],
+    "regimes": [
+      "Végétarien"
+    ],
+    "prixInitial": 10,
+    "prixReduit": 3.5,
+    "quantiteTotale": 10,
+    "stock": 3,
+    "debut": "18:00",
+    "fin": "19:00",
+    "photo": "assets/img/card-1.jpg",
+    "photoGrande": "assets/img/detail-1.jpg",
+    "thumb": "assets/img/thumb-1.jpg",
+    "statut": "PUBLIEE",
+    "recurrence": [
+      "Mar",
+      "Mer",
+      "Jeu",
+      "Ven",
+      "Sam"
+    ],
+    "pin": {
+      "x": 11.2,
+      "y": 9.3
+    }
+  },
+  {
+    "id": "o2",
+    "titre": "Plat du jour du soir",
+    "titreCourt": "Plat du jour",
+    "commerceId": "c2",
+    "categorie": "Restaurant",
+    "description": "Le plat du jour non servi : sauté de poulet aux légumes et purée maison. À réchauffer.",
+    "allergenes": [
+      "lait"
+    ],
+    "regimes": [],
+    "prixInitial": 12,
+    "prixReduit": 4,
+    "quantiteTotale": 8,
+    "stock": 5,
+    "debut": "21:30",
+    "fin": "22:00",
+    "photo": "assets/img/card-2.jpg",
+    "photoGrande": "assets/img/card-2.jpg",
+    "thumb": "assets/img/thumb-2.jpg",
+    "statut": "PUBLIEE",
+    "recurrence": [],
+    "pin": {
+      "x": 65.8,
+      "y": 16.5
+    }
+  },
+  {
+    "id": "o3",
+    "titre": "Fruits et légumes",
+    "titreCourt": "Fruits et légumes",
+    "commerceId": "c3",
+    "categorie": "Primeur",
+    "description": "Environ 3 kg de fruits et légumes de saison un peu abîmés mais parfaits pour une soupe ou une compote.",
+    "allergenes": [],
+    "regimes": [
+      "Végétarien",
+      "Vegan"
+    ],
+    "prixInitial": 15,
+    "prixReduit": 5,
+    "quantiteTotale": 6,
+    "stock": 2,
+    "debut": "19:00",
+    "fin": "19:30",
+    "photo": "assets/img/card-3.jpg",
+    "photoGrande": "assets/img/card-3.jpg",
+    "thumb": "assets/img/thumb-3.jpg",
+    "statut": "PUBLIEE",
+    "recurrence": [],
+    "pin": {
+      "x": 44.5,
+      "y": 34
+    }
+  },
+  {
+    "id": "o4",
+    "titre": "Viennoiseries x6",
+    "titreCourt": "Viennoiseries x6",
+    "commerceId": "c4",
+    "categorie": "Boulangerie",
+    "description": "Six viennoiseries pur beurre du jour : croissants, pains au chocolat, pains aux raisins.",
+    "allergenes": [
+      "gluten",
+      "œufs",
+      "lait"
+    ],
+    "regimes": [
+      "Végétarien"
+    ],
+    "prixInitial": 7,
+    "prixReduit": 2.5,
+    "quantiteTotale": 8,
+    "stock": 4,
+    "debut": "17:30",
+    "fin": "18:30",
+    "photo": "assets/img/card-4.jpg",
+    "photoGrande": "assets/img/card-4.jpg",
+    "thumb": "assets/img/thumb-4.jpg",
+    "statut": "PUBLIEE",
+    "recurrence": [],
+    "pin": {
+      "x": 32.5,
+      "y": 54.3
+    }
+  },
+  {
+    "id": "o5",
+    "titre": "Panier épicerie fraîche",
+    "titreCourt": "Panier épicerie",
+    "commerceId": "c5",
+    "categorie": "Supermarché",
+    "description": "Produits frais à date courte : yaourts, fromage, charcuterie, plats préparés.",
+    "allergenes": [
+      "lait",
+      "gluten"
+    ],
+    "regimes": [],
+    "prixInitial": 13,
+    "prixReduit": 4.5,
+    "quantiteTotale": 10,
+    "stock": 6,
+    "debut": "20:00",
+    "fin": "21:00",
+    "photo": "assets/img/cart.jpg",
+    "photoGrande": "assets/img/cart.jpg",
+    "thumb": "assets/img/cart.jpg",
+    "statut": "PUBLIEE",
+    "recurrence": [],
+    "pin": {
+      "x": 71.2,
+      "y": 63
+    }
+  },
+  {
+    "id": "o6",
+    "titre": "Viennoiseries x6",
+    "titreCourt": "Viennoiseries x6",
+    "commerceId": "c1",
+    "categorie": "Boulangerie",
+    "description": "Six viennoiseries de la journée (croissants et pains au chocolat).",
+    "allergenes": [
+      "gluten",
+      "œufs",
+      "lait"
+    ],
+    "regimes": [
+      "Végétarien"
+    ],
+    "prixInitial": 7,
+    "prixReduit": 2.5,
+    "quantiteTotale": 8,
+    "stock": 4,
+    "debut": "18:00",
+    "fin": "19:00",
+    "photo": "assets/img/card-1.jpg",
+    "photoGrande": "assets/img/card-1.jpg",
+    "thumb": "assets/img/thumb-1.jpg",
+    "statut": "PUBLIEE",
+    "recurrence": [],
+    "pin": {
+      "x": 52.5,
+      "y": 74.6
+    }
+  },
+  {
+    "id": "o7",
+    "titre": "Pain du jour",
+    "titreCourt": "Pain du jour",
+    "commerceId": "c1",
+    "categorie": "Boulangerie",
+    "description": "Deux baguettes tradition et un pain de campagne de la journée.",
+    "allergenes": [
+      "gluten"
+    ],
+    "regimes": [
+      "Végétarien",
+      "Vegan"
+    ],
+    "prixInitial": 4,
+    "prixReduit": 1.5,
+    "quantiteTotale": 6,
+    "stock": 1,
+    "debut": "17:00",
+    "fin": "19:00",
+    "photo": "assets/img/detail-1.jpg",
+    "photoGrande": "assets/img/detail-1.jpg",
+    "thumb": "assets/img/thumb-1.jpg",
+    "statut": "PUBLIEE",
+    "recurrence": [
+      "Mar",
+      "Mer",
+      "Jeu",
+      "Ven",
+      "Sam",
+      "Dim"
+    ],
+    "pin": {
+      "x": 20,
+      "y": 86
+    }
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "id": "u1",
+    "prenom": "Camille",
+    "nom": "Martin",
+    "email": "camille.martin@email.fr",
+    "role": "CONSOMMATEUR",
+    "statut": "ACTIF",
+    "inscription": "14/03/2026",
+    "rayon": 2,
+    "preferences": [
+      "Végétarien"
+    ],
+    "favoris": [
+      "c1",
+      "c3"
+    ],
+    "alertes": [
+      "c1"
+    ],
+    "stats": {
+      "paniers": 18,
+      "economies": 96,
+      "co2": 45
+    },
+    "mdp": "$2y$10$qcMa4lWCGOxeUVTQ9kfvlekHP1h7KVf9CPjqa4MtgscXPbuEKN4yi"
+  },
+  {
+    "id": "u2",
+    "prenom": "Boulangerie",
+    "nom": "Dupain",
+    "email": "contact@dupain.fr",
+    "role": "GESTIONNAIRE",
+    "statut": "ACTIF",
+    "inscription": "02/09/2026",
+    "rayon": 2,
+    "preferences": [],
+    "favoris": [],
+    "alertes": [],
+    "stats": {
+      "paniers": 0,
+      "economies": 0,
+      "co2": 0
+    },
+    "mdp": "$2y$10$qcMa4lWCGOxeUVTQ9kfvlekHP1h7KVf9CPjqa4MtgscXPbuEKN4yi"
+  },
+  {
+    "id": "u3",
+    "prenom": "Admin",
+    "nom": "FoodShare",
+    "email": "admin@foodshare.fr",
+    "role": "ADMIN",
+    "statut": "ACTIF",
+    "inscription": "01/01/2026",
+    "rayon": 2,
+    "preferences": [],
+    "favoris": [],
+    "alertes": [],
+    "stats": {
+      "paniers": 0,
+      "economies": 0,
+      "co2": 0
+    },
+    "mdp": "$2y$10$qcMa4lWCGOxeUVTQ9kfvlekHP1h7KVf9CPjqa4MtgscXPbuEKN4yi"
+  },
+  {
+    "id": "u4",
+    "prenom": "Hugo",
+    "nom": "Bernard",
+    "email": "hugo.b@email.fr",
+    "role": "CONSOMMATEUR",
+    "statut": "ACTIF",
+    "inscription": "22/05/2026",
+    "rayon": 3,
+    "preferences": [],
+    "favoris": [],
+    "alertes": [],
+    "stats": {
+      "paniers": 7,
+      "economies": 41,
+      "co2": 17
+    },
+    "mdp": "$2y$10$qcMa4lWCGOxeUVTQ9kfvlekHP1h7KVf9CPjqa4MtgscXPbuEKN4yi"
+  },
+  {
+    "id": "u5",
+    "prenom": "Sara",
+    "nom": "Lefèvre",
+    "email": "sara.lefevre@email.fr",
+    "role": "CONSOMMATEUR",
+    "statut": "ACTIF",
+    "inscription": "03/06/2026",
+    "rayon": 1,
+    "preferences": [
+      "Vegan"
+    ],
+    "favoris": [],
+    "alertes": [],
+    "stats": {
+      "paniers": 12,
+      "economies": 70,
+      "co2": 30
+    },
+    "mdp": "$2y$10$qcMa4lWCGOxeUVTQ9kfvlekHP1h7KVf9CPjqa4MtgscXPbuEKN4yi"
+  },
+  {
+    "id": "u6",
+    "prenom": "Nina",
+    "nom": "Robert",
+    "email": "nina.r@email.fr",
+    "role": "CONSOMMATEUR",
+    "statut": "ACTIF",
+    "inscription": "18/07/2026",
+    "rayon": 2,
+    "preferences": [],
+    "favoris": [],
+    "alertes": [],
+    "stats": {
+      "paniers": 3,
+      "economies": 15,
+      "co2": 7
+    },
+    "mdp": "$2y$10$qcMa4lWCGOxeUVTQ9kfvlekHP1h7KVf9CPjqa4MtgscXPbuEKN4yi"
+  },
+  {
+    "id": "u7",
+    "prenom": "Lucas",
+    "nom": "Petit",
+    "email": "lucas.petit@email.fr",
+    "role": "CONSOMMATEUR",
+    "statut": "SUSPENDU",
+    "inscription": "09/08/2026",
+    "rayon": 5,
+    "preferences": [],
+    "favoris": [],
+    "alertes": [],
+    "stats": {
+      "paniers": 1,
+      "economies": 4,
+      "co2": 2
+    },
+    "mdp": "$2y$10$qcMa4lWCGOxeUVTQ9kfvlekHP1h7KVf9CPjqa4MtgscXPbuEKN4yi"
+  }
+]

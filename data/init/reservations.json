@@ -1,0 +1,86 @@
+[
+  {
+    "id": "r1",
+    "code": "FS-48K2",
+    "offreId": "o1",
+    "userId": "u1",
+    "client": "Camille M.",
+    "quantite": 1,
+    "statut": "CONFIRMEE",
+    "date": "Aujourd'hui",
+    "heure": "18:00",
+    "note": null
+  },
+  {
+    "id": "r2",
+    "code": "FS-77P1",
+    "offreId": "o6",
+    "userId": "u4",
+    "client": "Hugo B.",
+    "quantite": 1,
+    "statut": "CONFIRMEE",
+    "date": "Aujourd'hui",
+    "heure": "18:30",
+    "note": null
+  },
+  {
+    "id": "r3",
+    "code": "FS-19Q8",
+    "offreId": "o1",
+    "userId": "u5",
+    "client": "Sara L.",
+    "quantite": 1,
+    "statut": "RETIREE",
+    "date": "Aujourd'hui",
+    "heure": "17:30",
+    "note": null
+  },
+  {
+    "id": "r4",
+    "code": "FS-03T5",
+    "offreId": "o7",
+    "userId": "u6",
+    "client": "Nina R.",
+    "quantite": 1,
+    "statut": "RETIREE",
+    "date": "Aujourd'hui",
+    "heure": "17:00",
+    "note": null
+  },
+  {
+    "id": "r5",
+    "code": "FS-22M9",
+    "offreId": "o3",
+    "userId": "u1",
+    "client": "Camille M.",
+    "quantite": 1,
+    "statut": "RETIREE",
+    "date": "12/11/2026",
+    "heure": "19:00",
+    "note": null
+  },
+  {
+    "id": "r6",
+    "code": "FS-61B3",
+    "offreId": "o2",
+    "userId": "u1",
+    "client": "Camille M.",
+    "quantite": 2,
+    "statut": "RETIREE",
+    "date": "08/11/2026",
+    "heure": "21:30",
+    "note": 5
+  },
+  {
+    "id": "r7",
+    "code": "FS-90X4",
+    "offreId": "o4",
+    "userId": "u1",
+    "client": "Camille M.",
+    "quantite": 1,
+    "statut": "ANNULEE",
+    "date": "05/11/2026",
+    "heure": "17:30",
+    "note": null
+  }
+]

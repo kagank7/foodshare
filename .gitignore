@@ -1,0 +1,8 @@
+# données modifiées pendant l'utilisation (recréées à partir de data/init/)
+data/*.json
+# photos envoyées par les commerçants
+assets/img/uploads/*
+!assets/img/uploads/.gitkeep
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a1",
+    "commerceId": "c1",
+    "auteur": "Sara L.",
+    "note": 5,
+    "texte": "Panier très généreux, beaucoup de viennoiseries !",
+    "date": "10/11"
+  },
+  {
+    "id": "a2",
+    "commerceId": "c1",
+    "auteur": "Hugo B.",
+    "note": 4,
+    "texte": "Bon rapport qualité-prix, accueil sympa.",
+    "date": "06/11"
+  },
+  {
+    "id": "a3",
+    "commerceId": "c2",
+    "auteur": "Camille M.",
+    "note": 5,
+    "texte": "Plat délicieux et copieux.",
+    "date": "08/11"
+  }
+]

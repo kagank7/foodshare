@@ -1,0 +1,30 @@
+[
+  {
+    "id": "s1",
+    "commerce": "Chez Léa",
+    "note": 1,
+    "texte": "Commentaire jugé injurieux par le commerçant.",
+    "auteur": "Lucas P."
+  },
+  {
+    "id": "s2",
+    "commerce": "Maison Tournier",
+    "note": 2,
+    "texte": "Avis suspect d'être non vérifié.",
+    "auteur": "Anonyme"
+  },
+  {
+    "id": "s3",
+    "commerce": "Boulangerie Dupain",
+    "note": 1,
+    "texte": "Langage inapproprié signalé par un utilisateur.",
+    "auteur": "Marc D."
+  },
+  {
+    "id": "s4",
+    "commerce": "Primeur Bio",
+    "note": 2,
+    "texte": "Avis publicitaire pour un autre commerce.",
+    "auteur": "Julie K."
+  }
+]
